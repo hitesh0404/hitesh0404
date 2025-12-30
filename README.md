@@ -77,19 +77,6 @@ Full-stack developer and data science educator passionate about building scalabl
 
 ---
 
-## 📊 GitHub Analytics
-
-### Contribution Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh0404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitesh0404&theme=dark&hide_border=false)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh0404&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🏪 **Live Full-Stack E-commerce Platform** – Building production-ready Django REST Framework backend with React frontend, deployed with Docker and Nginx
