@@ -1,5 +1,3 @@
-# 🚀 Enhanced GitHub Bio
-
 ## 💫 About Me
 
 Full-stack developer and data science educator passionate about building scalable applications and sharing knowledge with the developer community. Currently working as a Data Science Trainer while actively developing full-stack projects and creating educational content. Master's degree holder in Information Technology with hands-on expertise in backend architectures, API design, machine learning implementations, and DevOps technologies.
