@@ -1,12 +1,13 @@
 ## 💫 About Me
 
-Full-stack developer and data science educator passionate about building scalable applications and sharing knowledge with the developer community. Currently working as a Data Science Trainer while actively developing full-stack projects and creating educational content. Master's degree holder in Information Technology with hands-on expertise in backend architectures, API design, machine learning implementations, and DevOps technologies.
+Data science Full-stack developer and educator passionate about building scalable applications and sharing knowledge with the developer community, currently working as a Data Science Trainer while actively developing full-stack projects and creating educational content. 
+Master's degree holder in Information Technology with hands-on expertise in backend architectures, API design, machine learning implementations, and DevOps technologies.
 
 **Key Focus Areas:**
 - 🔧 Full-stack web development with Django REST Framework and React
 - 📊 Data science and machine learning model development
 - 📚 Technical content creation and developer education
-- 🏗️ Database optimization and system design
+- 🏗️ Database optimisation and system design
 - 🔐 Authentication systems and secure API design
 - 🚀 DevOps technologies and containerization
 - 🌐 Building live, production-ready full-stack applications
